@@ -1,1 +1,12 @@
 E:\visual studio 2012\Projects\GunArk\Update_Soft\Update_Soft\bin\Debug\Update_Soft.exe.config
+E:\visual studio 2012\Projects\GunArk\Update_Soft\Update_Soft\bin\Debug\Update_Soft.exe
+E:\visual studio 2012\Projects\GunArk\Update_Soft\Update_Soft\bin\Debug\Update_Soft.pdb
+E:\visual studio 2012\Projects\GunArk\Update_Soft\Update_Soft\obj\Debug\Update_Soft.csprojResolveAssemblyReference.cache
+E:\visual studio 2012\Projects\GunArk\Update_Soft\Update_Soft\obj\Debug\Update_Soft.Form1.resources
+E:\visual studio 2012\Projects\GunArk\Update_Soft\Update_Soft\obj\Debug\Update_Soft.Properties.Resources.resources
+E:\visual studio 2012\Projects\GunArk\Update_Soft\Update_Soft\obj\Debug\Update_Soft.csproj.GenerateResource.Cache
+E:\visual studio 2012\Projects\GunArk\Update_Soft\Update_Soft\obj\Debug\Update_Soft.exe
+E:\visual studio 2012\Projects\GunArk\Update_Soft\Update_Soft\obj\Debug\Update_Soft.pdb
+E:\visual studio 2012\Projects\GunArk\Update_Soft\Update_Soft\obj\Debug\Update_Soft.RecoverForm.resources
+E:\visual studio 2012\Projects\GunArk\Update_Soft\Update_Soft\obj\Debug\Update_Soft.UpdateForm.resources
+E:\visual studio 2012\Projects\GunArk\Update_Soft\Update_Soft\bin\Debug\ICSharpCode.SharpZipLib.dll

@@ -16,5 +16,18 @@ namespace Update_Soft
         {
             InitializeComponent();
         }
+
+        private void update_BT_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            new UpdateForm().ShowDialog();
+            this.Show();
+        }
+
+        private void cancel_BT_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            
+        }
     }
 }
