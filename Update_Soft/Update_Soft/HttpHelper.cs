@@ -16,8 +16,7 @@ namespace Update_Soft
             WebResponse response = request.GetResponse();
             Stream stream = response.GetResponseStream();
 
-            //if (!response.ContentType.ToLower().StartsWith("text/"))
-            //{
+           
             byte[] buffer = new byte[1024];
             Stream outStream = CreateFile(fileName);
             Stream inStream = response.GetResponseStream();

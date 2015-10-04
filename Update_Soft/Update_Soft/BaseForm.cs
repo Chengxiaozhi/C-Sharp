@@ -12,6 +12,9 @@ namespace Update_Soft
 {
     public  class BaseForm : Form
     {
+        /// <summary>
+        /// 检测被更新程序是否启动，有则将其关闭；
+        /// </summary>
         public static void CloseApp()
         {
             #region  Process Handling

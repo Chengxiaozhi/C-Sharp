@@ -14,14 +14,17 @@ using System.Threading;
 
 namespace Update_Soft
 {
+    /// <summary>
+    /// 载入窗口时先检查更新，没有更新就提示“暂时无更新”；有更新的话先进行备份，备份失败的话提示错误推出更新；
+    /// </summary>
     public partial class UpdateForm : Form
     {
 
         //private delegate void PrintResultDelegate(string msg, int val);
         //private delegate void SetButtonDelegate();
-        private bool isDelete = true;
-        private bool runningLock = false;
-        private Thread thread;
+        private bool isDelete = true; //判断是否删除升级配置
+        private bool runningLock = false;//判断是否正在升级
+        private Thread thread;//升级的线程
 
         public UpdateForm()
         {
@@ -53,7 +56,9 @@ namespace Update_Soft
                 this.Close();
             }
         }
-
+        /// <summary>
+        /// 关闭窗体事件
+        /// </summary>
         private void UpdateForm_FormClosing(object sender, FormClosingEventArgs e)
         {
             if (runningLock)

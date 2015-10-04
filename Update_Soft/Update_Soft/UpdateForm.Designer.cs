@@ -80,7 +80,8 @@
             this.Controls.Add(this.btnFinish);
             this.Controls.Add(this.btnStart);
             this.Name = "UpdateForm";
-            this.Text = "UpdateForm";
+            this.Text = "升级";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.UpdateForm_FormClosing);
             this.Load += new System.EventHandler(this.UpdateForm_Load);
             this.ResumeLayout(false);
 

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updateFiles>
+    <file name="doc\clientaccesspolicy.xml"  src="http://localhost:8015/clientaccesspolicy.xml" version="3" size="1394007" option="add"/>
+</updateFiles>

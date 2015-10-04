@@ -27,7 +27,8 @@ namespace Update_Soft
         private void cancel_BT_Click(object sender, EventArgs e)
         {
             this.Hide();
-            
+            new RecoverForm().ShowDialog();
+            this.Show();
         }
     }
 }

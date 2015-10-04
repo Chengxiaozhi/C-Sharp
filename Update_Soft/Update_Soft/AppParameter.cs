@@ -30,7 +30,7 @@ namespace Update_Soft
         public static string Version = ConfigurationManager.AppSettings["version"];
 
         /// <summary>
-        /// 更新程序路径
+        /// 更新程序路径(获取程序的基目录)
         /// </summary>
         public static string LocalPath = AppDomain.CurrentDomain.BaseDirectory;
 

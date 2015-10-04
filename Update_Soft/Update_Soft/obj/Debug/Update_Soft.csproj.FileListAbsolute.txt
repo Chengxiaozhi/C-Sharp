@@ -9,4 +9,3 @@ E:\visual studio 2012\Projects\GunArk\Update_Soft\Update_Soft\obj\Debug\Update_S
 E:\visual studio 2012\Projects\GunArk\Update_Soft\Update_Soft\obj\Debug\Update_Soft.pdb
 E:\visual studio 2012\Projects\GunArk\Update_Soft\Update_Soft\obj\Debug\Update_Soft.RecoverForm.resources
 E:\visual studio 2012\Projects\GunArk\Update_Soft\Update_Soft\obj\Debug\Update_Soft.UpdateForm.resources
-E:\visual studio 2012\Projects\GunArk\Update_Soft\Update_Soft\bin\Debug\ICSharpCode.SharpZipLib.dll
