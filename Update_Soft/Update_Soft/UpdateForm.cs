@@ -139,7 +139,7 @@ namespace Update_Soft
                             failCount++;
                         }
 
-                        if (this.InvokeRequired)
+                        if (this.InvokeRequired)//判断挡墙线程是否是UI线程
                         {
                             
                             this.Invoke((Action)delegate()
@@ -198,11 +198,14 @@ namespace Update_Soft
             {
 
                 if (ent.Option == UpdateOptionEnum.del)
-                    File.Delete(ent.FileFullName);
+                    File.Delete(ent.FileFullName);//是否删除本地更新的配置信息
                 else
                     HttpHelper.DownLoadFile(ent.Src, Path.Combine(AppParameter.MainPath, ent.FileFullName));
             }
-            catch { result = false; }
+            catch 
+            {
+                result = false;
+            }
             return result;
         }
 

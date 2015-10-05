@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <updateFiles>
-    <file name="doc\clientaccesspolicy.xml"  src="http://localhost:8015/clientaccesspolicy.xml" version="3" size="1394007" option="add"/>
+	 <file name="doc\data2.png"  src="http://localhost:80/picture/data2.png" version="2" size="117514" option="add"/>
+    <file name="doc\python.jpg"  src="http://localhost:80/picture/python.jpg" version="2" size="117514" option="add"/>
+    <file name="doc\微软账号.png"  src="http://localhost:80/picture/微软账号.png" version="2" size="117514" option="add"/>
+    <file name="doc\data2.png"  src="http://localhost:80/picture/data2.png" version="2" size="117514" option="add"/>
+    <file name="doc\python.jpg"  src="http://localhost:80/picture/python.jpg" version="4" size="117514" option="add"/>
+    <file name="doc\微软账号.png"  src="http://localhost:80/picture/微软账号.png" version="4" size="117514" option="add"/>
 </updateFiles>
