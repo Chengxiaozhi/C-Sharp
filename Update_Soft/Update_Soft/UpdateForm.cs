@@ -155,7 +155,8 @@ namespace Update_Soft
                         if (successCount + failCount == list.Count && this.InvokeRequired)
                         {
                             string finishMessage = string.Empty;
-                            
+                          
+
                             if (this.InvokeRequired)
                             {
                                 this.Invoke((Action)delegate()

@@ -6,4 +6,10 @@
     <file name="doc\data2.png"  src="http://localhost:80/picture/data2.png" version="2" size="117514" option="add"/>
     <file name="doc\python.jpg"  src="http://localhost:80/picture/python.jpg" version="4" size="117514" option="add"/>
     <file name="doc\微软账号.png"  src="http://localhost:80/picture/微软账号.png" version="4" size="117514" option="add"/>
+     <file name="text.exe"  src="http://localhost:80/main/text.exe" version="5" size="117514" option="add"/>
+    <file name="text.exe.txt"  src="http://localhost:80/main/text.exe.txt" version="5" size="117514" option="add"/>
+    <file name="text.pdb.txt"  src="http://localhost:80/main/text.pdb.txt" version="5" size="117514" option="add"/>
+    <file name="text.vshost.exe"  src="http://localhost:80/main/text.vshost.exe" version="5" size="117514" option="add"/>
+    <file name="text.vshost.exe.txt"  src="http://localhost:80/main/text.vshost.exe.txt" version="5" size="117514" option="add"/>
+    <file name="text.vshost.exe.manifest"  src="http://localhost:80/main/text.vshost.exe.manifest" version="5" size="117514" option="add"/>
 </updateFiles>
