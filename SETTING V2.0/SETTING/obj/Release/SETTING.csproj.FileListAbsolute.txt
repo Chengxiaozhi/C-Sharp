@@ -1,0 +1,37 @@
+C:\Documents and Settings\huang\My Documents\Visual Studio 2008\Projects\SETTING\SETTING\bin\Release\SETTING.exe
+C:\Documents and Settings\huang\My Documents\Visual Studio 2008\Projects\SETTING\SETTING\bin\Release\SETTING.pdb
+C:\Documents and Settings\huang\My Documents\Visual Studio 2008\Projects\SETTING\SETTING\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\huang\My Documents\Visual Studio 2008\Projects\SETTING\SETTING\obj\Release\SETTING.SETTING.resources
+C:\Documents and Settings\huang\My Documents\Visual Studio 2008\Projects\SETTING\SETTING\obj\Release\SETTING.Properties.Resources.resources
+C:\Documents and Settings\huang\My Documents\Visual Studio 2008\Projects\SETTING\SETTING\obj\Release\SETTING.csproj.GenerateResource.Cache
+C:\Documents and Settings\huang\My Documents\Visual Studio 2008\Projects\SETTING\SETTING\obj\Release\SETTING.exe
+C:\Documents and Settings\huang\My Documents\Visual Studio 2008\Projects\SETTING\SETTING\obj\Release\SETTING.pdb
+C:\Documents and Settings\huang\桌面\SETTING\SETTING\obj\Release\SETTING.exe
+C:\Documents and Settings\huang\桌面\SETTING\SETTING\obj\Release\SETTING.pdb
+C:\Documents and Settings\huang\桌面\SETTING\SETTING\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\huang\桌面\SETTING\SETTING\obj\Release\SETTING.SETTING.resources
+C:\Documents and Settings\huang\桌面\SETTING\SETTING\obj\Release\SETTING.Properties.Resources.resources
+C:\Documents and Settings\huang\桌面\SETTING\SETTING\obj\Release\SETTING.csproj.GenerateResource.Cache
+C:\Documents and Settings\huang\桌面\SETTING\SETTING\bin\Release\SETTING.exe
+C:\Documents and Settings\huang\桌面\SETTING\SETTING\bin\Release\SETTING.pdb
+C:\Documents and Settings\huang\桌面\SETTING\SETTING\bin\Release\MySql.Data.dll
+H:\SETTING\SETTING\obj\Release\SETTING.exe
+H:\SETTING\SETTING\obj\Release\SETTING.pdb
+C:\Documents and Settings\huang\桌面\8-25\SETTING\SETTING\obj\Release\SETTING.exe
+C:\Documents and Settings\huang\桌面\8-25\SETTING\SETTING\obj\Release\SETTING.pdb
+C:\Documents and Settings\huang\桌面\9-6\SETTING V2.0\SETTING\obj\Release\SETTING.exe
+C:\Documents and Settings\huang\桌面\9-6\SETTING V2.0\SETTING\obj\Release\SETTING.pdb
+C:\Documents and Settings\huang\桌面\9-6\SETTING V2.0\SETTING\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\huang\桌面\9-6\SETTING V2.0\SETTING\obj\Release\SETTING.SETTING.resources
+C:\Documents and Settings\huang\桌面\9-6\SETTING V2.0\SETTING\obj\Release\SETTING.Properties.Resources.resources
+C:\Documents and Settings\huang\桌面\9-6\SETTING V2.0\SETTING\obj\Release\SETTING.csproj.GenerateResource.Cache
+C:\Documents and Settings\huang\桌面\9-6\SETTING V2.0\SETTING\bin\Release\SETTING.exe
+C:\Documents and Settings\huang\桌面\9-6\SETTING V2.0\SETTING\bin\Release\SETTING.pdb
+E:\visual studio 2012\Projects\GunArk\SETTING V2.0\SETTING\obj\Release\SETTING.exe
+E:\visual studio 2012\Projects\GunArk\SETTING V2.0\SETTING\obj\Release\SETTING.pdb
+E:\visual studio 2012\Projects\GunArk\SETTING V2.0\SETTING\bin\Release\SETTING.exe
+E:\visual studio 2012\Projects\GunArk\SETTING V2.0\SETTING\bin\Release\SETTING.pdb
+E:\visual studio 2012\Projects\GunArk\SETTING V2.0\SETTING\obj\Release\SETTING.csprojResolveAssemblyReference.cache
+E:\visual studio 2012\Projects\GunArk\SETTING V2.0\SETTING\obj\Release\SETTING.SETTING.resources
+E:\visual studio 2012\Projects\GunArk\SETTING V2.0\SETTING\obj\Release\SETTING.Properties.Resources.resources
+E:\visual studio 2012\Projects\GunArk\SETTING V2.0\SETTING\obj\Release\SETTING.csproj.GenerateResource.Cache

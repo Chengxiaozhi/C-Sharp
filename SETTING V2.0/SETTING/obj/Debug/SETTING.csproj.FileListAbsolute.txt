@@ -1,0 +1,17 @@
+C:\Documents and Settings\huang\My Documents\Visual Studio 2008\Projects\SETTING\SETTING\bin\Debug\SETTING.exe
+C:\Documents and Settings\huang\My Documents\Visual Studio 2008\Projects\SETTING\SETTING\bin\Debug\SETTING.pdb
+C:\Documents and Settings\huang\My Documents\Visual Studio 2008\Projects\SETTING\SETTING\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\huang\My Documents\Visual Studio 2008\Projects\SETTING\SETTING\obj\Debug\SETTING.SETTING.resources
+C:\Documents and Settings\huang\My Documents\Visual Studio 2008\Projects\SETTING\SETTING\obj\Debug\SETTING.Properties.Resources.resources
+C:\Documents and Settings\huang\My Documents\Visual Studio 2008\Projects\SETTING\SETTING\obj\Debug\SETTING.csproj.GenerateResource.Cache
+C:\Documents and Settings\huang\My Documents\Visual Studio 2008\Projects\SETTING\SETTING\obj\Debug\SETTING.exe
+C:\Documents and Settings\huang\My Documents\Visual Studio 2008\Projects\SETTING\SETTING\obj\Debug\SETTING.pdb
+C:\Documents and Settings\huang\桌面\SETTING\SETTING\obj\Debug\SETTING.exe
+C:\Documents and Settings\huang\桌面\SETTING\SETTING\obj\Debug\SETTING.pdb
+C:\Documents and Settings\huang\桌面\SETTING\SETTING\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\huang\桌面\SETTING\SETTING\obj\Debug\SETTING.SETTING.resources
+C:\Documents and Settings\huang\桌面\SETTING\SETTING\obj\Debug\SETTING.Properties.Resources.resources
+C:\Documents and Settings\huang\桌面\SETTING\SETTING\obj\Debug\SETTING.csproj.GenerateResource.Cache
+C:\Documents and Settings\huang\桌面\SETTING\SETTING\bin\Debug\SETTING.exe
+C:\Documents and Settings\huang\桌面\SETTING\SETTING\bin\Debug\SETTING.pdb
+C:\Documents and Settings\huang\桌面\SETTING\SETTING\bin\Debug\MySql.Data.dll
