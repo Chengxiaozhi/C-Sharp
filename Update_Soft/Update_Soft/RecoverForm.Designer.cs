@@ -71,6 +71,7 @@
             this.Controls.Add(this.listBox1);
             this.Name = "RecoverForm";
             this.Text = "RecoverForm";
+            this.Load += new System.EventHandler(this.RecoverForm_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

@@ -1,0 +1,17 @@
+C:\Documents and Settings\huang\My Documents\Visual Studio 2008\Projects\Reboot\Reboot\bin\Release\Reboot.exe
+C:\Documents and Settings\huang\My Documents\Visual Studio 2008\Projects\Reboot\Reboot\bin\Release\Reboot.pdb
+C:\Documents and Settings\huang\My Documents\Visual Studio 2008\Projects\Reboot\Reboot\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\huang\My Documents\Visual Studio 2008\Projects\Reboot\Reboot\obj\Release\Reboot.Reboot.resources
+C:\Documents and Settings\huang\My Documents\Visual Studio 2008\Projects\Reboot\Reboot\obj\Release\Reboot.Properties.Resources.resources
+C:\Documents and Settings\huang\My Documents\Visual Studio 2008\Projects\Reboot\Reboot\obj\Release\Reboot.csproj.GenerateResource.Cache
+C:\Documents and Settings\huang\My Documents\Visual Studio 2008\Projects\Reboot\Reboot\obj\Release\Reboot.exe
+C:\Documents and Settings\huang\My Documents\Visual Studio 2008\Projects\Reboot\Reboot\obj\Release\Reboot.pdb
+C:\Documents and Settings\huang\My Documents\Visual Studio 2008\Projects\Reboot\Reboot\bin\Release\MySql.Data.dll
+D:\Reboot2.0\Reboot\obj\Release\Reboot.exe
+D:\Reboot2.0\Reboot\obj\Release\Reboot.pdb
+D:\Reboot2.0\Reboot\bin\Release\Reboot.exe
+D:\Reboot2.0\Reboot\bin\Release\Reboot.pdb
+D:\Reboot2.0\Reboot\obj\Release\Reboot.csprojResolveAssemblyReference.cache
+D:\Reboot2.0\Reboot\obj\Release\Reboot.Reboot.resources
+D:\Reboot2.0\Reboot\obj\Release\Reboot.Properties.Resources.resources
+D:\Reboot2.0\Reboot\obj\Release\Reboot.csproj.GenerateResource.Cache

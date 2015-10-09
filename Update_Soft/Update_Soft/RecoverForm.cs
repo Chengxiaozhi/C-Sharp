@@ -19,7 +19,7 @@ namespace Update_Soft
             InitializeComponent();
         }
 
-        private void BackupForm_Load(object sender, EventArgs e)
+        private void RecoverForm_Load(object sender, EventArgs e)
         {
             List<string> list = GetBackupList();
             for (int i = 0; i < list.Count; i++)

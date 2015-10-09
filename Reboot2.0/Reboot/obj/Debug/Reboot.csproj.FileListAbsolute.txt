@@ -1,0 +1,8 @@
+C:\Documents and Settings\huang\My Documents\Visual Studio 2008\Projects\Reboot\Reboot\bin\Debug\Reboot.exe
+C:\Documents and Settings\huang\My Documents\Visual Studio 2008\Projects\Reboot\Reboot\bin\Debug\Reboot.pdb
+C:\Documents and Settings\huang\My Documents\Visual Studio 2008\Projects\Reboot\Reboot\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\huang\My Documents\Visual Studio 2008\Projects\Reboot\Reboot\obj\Debug\Reboot.Reboot.resources
+C:\Documents and Settings\huang\My Documents\Visual Studio 2008\Projects\Reboot\Reboot\obj\Debug\Reboot.Properties.Resources.resources
+C:\Documents and Settings\huang\My Documents\Visual Studio 2008\Projects\Reboot\Reboot\obj\Debug\Reboot.csproj.GenerateResource.Cache
+C:\Documents and Settings\huang\My Documents\Visual Studio 2008\Projects\Reboot\Reboot\obj\Debug\Reboot.exe
+C:\Documents and Settings\huang\My Documents\Visual Studio 2008\Projects\Reboot\Reboot\obj\Debug\Reboot.pdb
